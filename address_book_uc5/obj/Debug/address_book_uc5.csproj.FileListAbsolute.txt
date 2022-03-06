@@ -1,0 +1,8 @@
+E:\bridgelabz\address_book_uc5\bin\Debug\address_book_uc5.exe.config
+E:\bridgelabz\address_book_uc5\bin\Debug\address_book_uc5.exe
+E:\bridgelabz\address_book_uc5\bin\Debug\address_book_uc5.pdb
+E:\bridgelabz\address_book_uc5\obj\Debug\address_book_uc5.csproj.AssemblyReference.cache
+E:\bridgelabz\address_book_uc5\obj\Debug\address_book_uc5.csproj.SuggestedBindingRedirects.cache
+E:\bridgelabz\address_book_uc5\obj\Debug\address_book_uc5.csproj.CoreCompileInputs.cache
+E:\bridgelabz\address_book_uc5\obj\Debug\address_book_uc5.exe
+E:\bridgelabz\address_book_uc5\obj\Debug\address_book_uc5.pdb
